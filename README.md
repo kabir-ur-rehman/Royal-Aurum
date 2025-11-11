@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# Royal-Aurum
+Royal Aurum is a modern eCommerce website for luxury jewelry, offering rings, necklaces, bracelets, bangles, and earrings. Built with React, Vite, and Tailwind CSS, it features a responsive design, product management, and secure checkout for a seamless shopping experience.
+>>>>>>> f90c2f62966dc39763bdf39db55114160bb7e7aa
