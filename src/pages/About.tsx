@@ -87,11 +87,11 @@ const About = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
               <div>
                 <p className="text-sm font-semibold">Phone</p>
-                <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                <p className="text-muted-foreground">121 68603280</p>
               </div>
               <div>
                 <p className="text-sm font-semibold">Email</p>
-                <p className="text-muted-foreground">info@luxorajewels.com</p>
+                <p className="text-muted-foreground">royalaurum@gmail.com</p>
               </div>
             </div>
           </div>
