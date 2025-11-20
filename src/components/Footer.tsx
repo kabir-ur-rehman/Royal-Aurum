@@ -14,14 +14,14 @@ const Footer = () => {
               Where Gold Meets Royalty. Discover exquisite jewelry that defines elegance.
             </p>
             <div className="flex space-x-3">
-              <a href="#" className="p-2 hover:bg-primary/10 rounded-full transition-smooth">
+              <a href="https://www.facebook.com/people/Royal-Aurum/61583196103487/?rdid=WX1uTT1M1p626cEj&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Fo2qi7Rpt%2F" className="p-2 hover:bg-primary/10 rounded-full transition-smooth">
                 <Facebook className="h-4 w-4 text-primary" />
               </a>
-              <a href="#" className="p-2 hover:bg-primary/10 rounded-full transition-smooth">
+              <a href="https://www.instagram.com/royal_aurum_4/?utm_source=qr&r=nametag" className="p-2 hover:bg-primary/10 rounded-full transition-smooth">
                 <Instagram className="h-4 w-4 text-primary" />
               </a>
-              <a href="#" className="p-2 hover:bg-primary/10 rounded-full transition-smooth">
-                <Twitter className="h-4 w-4 text-primary" />
+              {/* <a href="#" className="p-2 hover:bg-primary/10 rounded-full transition-smooth">
+                <Twitter className="h-4 w-4 text-primary" /> */}
               </a>
             </div>
           </div>
