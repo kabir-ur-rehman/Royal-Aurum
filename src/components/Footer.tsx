@@ -19,7 +19,8 @@ const Footer = () => {
               </a>
               <a href="https://www.instagram.com/royal_aurum_4/?utm_source=qr&r=nametag" className="p-2 hover:bg-primary/10 rounded-full transition-smooth">
                 <Instagram className="h-4 w-4 text-primary" />
-          
+              </a>
+              
             </div>
           </div>
 
